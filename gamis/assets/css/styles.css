@@ -1,0 +1,12 @@
+.image_class {
+  width: 100%;
+}
+
+#subhead1 {
+  margin-top: 14px;
+  color: #d0ff49 !important;
+  background: #717171;
+  padding: 7px 5px;
+  border-radius: 13px;
+}
+
